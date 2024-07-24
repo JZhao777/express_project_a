@@ -20,7 +20,6 @@ async function getDataAsync() {
                     <strong>Year:</strong> ${element.year} <br>
                     <strong>Director:</strong> ${element.director} <br>
                     <strong>Cast:</strong> ${element.cast.join(", ")}
-           
                 <hr>
             `;
         }
