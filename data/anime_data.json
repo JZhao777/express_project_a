@@ -1,0 +1,80 @@
+[
+    {
+      "title": "Attack on Titan",
+      "genre": "Action, Drama, Fantasy",
+      "year": 2013,
+      "director": "Tetsurō Araki",
+      "cast": [
+        "Yūki Kaji",
+        "Yui Ishikawa",
+        "Marina Inoue"
+      ]
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": "Action, Comedy, Superhero",
+      "year": 2016,
+      "director": "Kenji Nagasaki",
+      "cast": [
+        "Daiki Yamashita",
+        "Kenta Miyake",
+        "Nobuhiko Okamoto"
+      ]
+    },
+    {
+      "title": "One Piece",
+      "genre": "Adventure, Fantasy",
+      "year": 1999,
+      "director": "Kounosuke Uda",
+      "cast": [
+        "Mayumi Tanaka",
+        "Kazuya Nakai",
+        "Akemi Okamura"
+      ]
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "genre": "Action, Supernatural, Historical",
+      "year": 2019,
+      "director": "Haruo Sotozaki",
+      "cast": [
+        "Natsuki Hanae",
+        "Akari Kitō",
+        "Hiro Shimono"
+      ]
+    },
+    {
+      "title": "Naruto",
+      "genre": "Action, Adventure, Fantasy",
+      "year": 2002,
+      "director": "Hayato Date",
+      "cast": [
+        "Junko Takeuchi",
+        "Noriaki Sugiyama",
+        "Chie Nakamura"
+      ]
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "genre": "Action, Adventure, Fantasy",
+      "year": 2009,
+      "director": "Yasuhiro Irie",
+      "cast": [
+        "Romi Park",
+        "Rie Kugimiya",
+        "Shin-ichiro Miki"
+      ]
+    },
+    {
+      "title": "Your Name",
+      "genre": "Drama, Fantasy, Romance",
+      "year": 2016,
+      "director": "Makoto Shinkai",
+      "cast": [
+        "Ryunosuke Kamiki",
+        "Mone Kamishiraishi",
+        "Ryo Narita"
+      ]
+    }
+  ]
+  
