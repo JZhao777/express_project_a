@@ -1,0 +1,23 @@
+#banner {
+    background-color: #D79FC7 !important;
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: white;
+    padding: 10px; 
+    border-radius: 5px; 
+}
+
+.btn-custom {
+    background-color: #D79FC7 !important; 
+    color: white !important; 
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+}
+
+.btn-custom:hover {
+    background-color: #D66A8A !important; 
+}

@@ -1,5 +1,5 @@
 
-const getAsyncBtn = document.getElementById("getAsync");
+const getAsyncBtn = document.getElementById("submitBtn");
 getAsyncBtn.addEventListener('click', getDataAsync);
 
 const dataURL = 'http://localhost:3000/animedata';
