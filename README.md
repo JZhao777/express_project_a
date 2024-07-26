@@ -1,6 +1,4 @@
 # Anime World
-Hello
-
 ## Features
 
 - Home page with a welcoming banner and featured anime cards.
@@ -8,7 +6,7 @@ Hello
 - About Us page providing information about the site and the team.
 - Contact Us page with a form for users to send messages.
 
-## Technologies Used
+## Programming languages and frameworks used
 
 - [Express.js](https://expressjs.com/)
 - [Bootstrap](https://getbootstrap.com/)
